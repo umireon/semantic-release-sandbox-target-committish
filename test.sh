@@ -1,7 +1,7 @@
 # `GH_TOKEN` should be exported as environment variable
 export NPM_TOKEN=null
 export CI=true
-VERSION=1.0.4
+VERSION=1.0.5
 
 # mock semantic-release pre
 sed -i '' -e "s/0.0.0-development/$VERSION/" package.json
