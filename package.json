@@ -1,0 +1,12 @@
+{
+  "name": "semantic-release-sandbox-target-committish",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "semantic-release-sandbox-target-committish"
+  },
+  "devDependencies": {
+    "semantic-release": "git+https://github.com/umireon/semantic-release.git#fix-target-commitish"
+  }
+}
