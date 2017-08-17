@@ -7,6 +7,6 @@
     "url": "https://github.com/umireon/semantic-release-sandbox-target-committish"
   },
   "devDependencies": {
-    "semantic-release": "git+https://github.com/umireon/semantic-release.git#fix-target-commitish"
+    "semantic-release": "git+https://github.com/umireon/semantic-release.git#fix-create-unexpected-branch"
   }
 }
